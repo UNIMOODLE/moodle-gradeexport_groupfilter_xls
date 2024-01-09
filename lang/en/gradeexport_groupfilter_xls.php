@@ -38,14 +38,14 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['eventgradeexported'] = 'S\'han exportat les qualificacions en format XLS (informació del grup inclosa)';
+$string['eventgradeexported'] = 'Grades in XLS format exported (including group information)';
 $string['pluginname'] = 'Groupfilter Excel spreadsheet';
-$string['privacy:metadata'] = 'El connector d\'exportació de qualificacions en format XLS no emmagatzema cap dada personal.';
-$string['timeexported'] = 'Darrera descàrrega des d\'aquest curs';
-$string['groupfilter_txt:publish'] = 'Publica l\'exportació de les qualificacions en format XLS (informació del grup inclosa)';
-$string['groupfilter_txt:view'] = 'Utilitza l\'exportació de les qualificacions en format XLS';
+$string['privacy:metadata'] = 'The grade export plugin in XLS format does not store any personal data.';
+$string['timeexported'] = 'Last downloaded from this course';
+$string['groupfilter_txt:publish'] = 'Publish grade export in XLS format (including group information)';
+$string['groupfilter_txt:view'] = 'Use grade export in XLS format';
 
 //Added for grade_export_form
-$string['userfieldsheader'] = 'Camps d\'usuari';
-$string['userfields_form'] = 'Selecció de camps d\'usuari';
+$string['userfieldsheader'] = 'User Fields';
+$string['userfields_form'] = 'Selection of user fields';
 $string['group'] = 'Groups';
