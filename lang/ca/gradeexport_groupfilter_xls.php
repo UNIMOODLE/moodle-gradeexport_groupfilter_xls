@@ -38,12 +38,12 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['eventgradeexported'] = 'Groupfilter xls grau exportat';
+$string['eventgradeexported'] = 'S\'han exportat les qualificacions en format XLS (informació del grup inclosa)';
 $string['pluginname'] = 'Groupfilter Full de càlcul Excel';
-$string['privacy:metadata'] = 'El connector d\'exportació de la qualificació del full de càlcul d\'Excel no emmagatzema cap dada personal.';
-$string['timeexported'] = 'Última descàrrega d\'aquest curs';
-$string['groupfilter_xls:publish'] = 'Publiqueu l\'exportació del grau de xls Groupfilter';
-$string['groupfilter_xls:view'] = 'Utilitzeu l\'exportació de qualificacions d\'Excel';
+$string['privacy:metadata'] = 'El connector d\'exportació de qualificacions en format XLS no emmagatzema cap dada personal.';
+$string['timeexported'] = 'Darrera descàrrega d\'aquest curs';
+$string['groupfilter_xls:publish'] = 'Publica l\'exportació de les qualificacions en format XLS (informació del grup inclosa)';
+$string['groupfilter_xls:view'] = 'Utilitza l\'exportació de les qualificacions en format XLS';
 
 // Added for grade_export_form.
 $string['userfieldsheader'] = 'Camps d\'usuari';
