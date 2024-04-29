@@ -38,14 +38,14 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['eventgradeexported'] = 'Groupfilter xls grado exportado';
+$string['eventgradeexported'] = 'Calificaciones en formato XLS exportadas (incluída la información del grupo)';
 $string['pluginname'] = 'Groupfilter Hoja de cálculo Excel';
-$string['privacy:metadata'] = 'El conector de exportación de calificaciones a hojas de cálculo Excel no almacena ningún dato personal.';
-$string['timeexported'] = 'Última descarga de este curso';
-$string['groupfilter_xls:publish'] = 'Publicar exportación de grado Groupfilter xls';
-$string['groupfilter_xls:view'] = 'Utilizar la exportación de notas de Excel';
+$string['privacy:metadata'] = 'El plugin de exportación de calificaciones en formato XLS no almacena ningún dato personal.';
+$string['timeexported'] = 'Última descarga desde este curso';
+$string['groupfilter_txt:publish'] = 'Publicar la exportación de las calificaciones en formato XLS (incluída la información del grupo)';
+$string['groupfilter_txt:view'] = 'Utilizar la exportación de las calificaciones en formato XLS';
 
-// Added for grade_export_form.
+//Added for grade_export_form
 $string['userfieldsheader'] = 'Campos de usuario';
 $string['userfields_form'] = 'Selección de campos de usuario';
 $string['group'] = 'Grupos';
