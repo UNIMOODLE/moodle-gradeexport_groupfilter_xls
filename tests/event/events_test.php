@@ -19,7 +19,7 @@ namespace gradeexport_groupfilter_xls\event;
 /**
  * XLS grade export events test cases.
  *
- * @package    gradeexport_xls
+ * @package gradeexport_groupfilter_xls_xls
  * @copyright  2016 Zane Karl zkarl@oid.ucla.edu
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */

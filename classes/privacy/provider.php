@@ -17,7 +17,7 @@
 /**
  * Privacy Subsystem implementation for gradeexport_xls.
  *
- * @package    gradeexport_xls
+ * @package gradeexport_groupfilter_xls_xls
  * @copyright  2018 Sara Arjona <sara@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
