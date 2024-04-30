@@ -21,20 +21,15 @@
 // Valladolid, Complutense de Madrid, UPV/EHU, León, Salamanca,
 // Illes Balears, Valencia, Rey Juan Carlos, La Laguna, Zaragoza, Málaga,
 // Córdoba, Extremadura, Vigo, Las Palmas de Gran Canaria y Burgos.
-/**
-
- * @package gradeexport_groupfilter_xls
- * @copyright 2023 Proyecto UNIMOODLE {@link https://unimoodle.github.io}
- * @author UNIMOODLE Group (Coordinator) <direccion.area.estrategia.digital@uva.es>
- * @author Miguel Gutiérrez (UPCnet) <miguel.gutierrez.jariod@upcnet.es>
- * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
 
 /**
  * Strings for component 'gradeexport_groupfilter_xls'.
  *
  * @package gradeexport_groupfilter_xls
  * @copyright 1999 onwards Martin Dougiamas  {@link http://moodle.com}
+ * @copyright 2023 Proyecto UNIMOODLE {@link https://unimoodle.github.io}
+ * @author UNIMOODLE Group (Coordinator) <direccion.area.estrategia.digital@uva.es>
+ * @author Miguel Gutiérrez (UPCnet) <miguel.gutierrez.jariod@upcnet.es>
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

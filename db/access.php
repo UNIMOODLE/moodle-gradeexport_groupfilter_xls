@@ -22,12 +22,6 @@
 // Illes Balears, Valencia, Rey Juan Carlos, La Laguna, Zaragoza, Málaga,
 // Córdoba, Extremadura, Vigo, Las Palmas de Gran Canaria y Burgos.
 /**
-
- * @package gradeexport_groupfilter_xls
- * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
-
-/**
  * Capabilities gradeexport plugin.
  *
  * @package gradeexport_groupfilter_xls
