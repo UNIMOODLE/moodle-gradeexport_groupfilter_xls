@@ -37,8 +37,8 @@ $string['eventgradeexported'] = 'Grades in XLS format exported (including group 
 $string['pluginname'] = 'Groupfilter Excel spreadsheet';
 $string['privacy:metadata'] = 'The grade export plugin in XLS format does not store any personal data.';
 $string['timeexported'] = 'Last downloaded from this course';
-$string['groupfilter_txt:publish'] = 'Publish grade export in XLS format (including group information)';
-$string['groupfilter_txt:view'] = 'Use grade export in XLS format';
+$string['groupfilter_xls:publish'] = 'Publish grade export in XLS format (including group information)';
+$string['groupfilter_xls:view'] = 'Use grade export in XLS format';
 
 //Added for grade_export_form
 $string['userfieldsheader'] = 'User Fields';
