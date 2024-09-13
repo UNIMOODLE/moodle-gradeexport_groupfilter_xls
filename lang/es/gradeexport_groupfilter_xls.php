@@ -37,8 +37,8 @@ $string['eventgradeexported'] = 'Calificaciones en formato XLS exportadas (inclu
 $string['pluginname'] = 'Groupfilter Hoja de cálculo Excel';
 $string['privacy:metadata'] = 'El plugin de exportación de calificaciones en formato XLS no almacena ningún dato personal.';
 $string['timeexported'] = 'Última descarga desde este curso';
-$string['groupfilter_txt:publish'] = 'Publicar la exportación de las calificaciones en formato XLS (incluída la información del grupo)';
-$string['groupfilter_txt:view'] = 'Utilizar la exportación de las calificaciones en formato XLS';
+$string['groupfilter_xls:publish'] = 'Publicar la exportación de las calificaciones en formato XLS (incluída la información del grupo)';
+$string['groupfilter_xls:view'] = 'Utilizar la exportación de las calificaciones en formato XLS';
 
 //Added for grade_export_form
 $string['userfieldsheader'] = 'Campos de usuario';
